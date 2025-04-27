@@ -6,25 +6,28 @@ This Document and/or Document Templates designed and developed (hereby referred 
 
 **Table of Contents**
 
-- [Documents Ownership](#documents-ownership)
-- [Third Party Vendors Accessing our Documents](#third-party-vendors-accessing-our-documents)
-- [Contact](#contact)
+- [Document Ownership](#document-ownership)
+- [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](#creative-commons-attribution-noncommercial-sharealike-cc-by-nc-sa)
 - [Governing Law](#governing-law)
 
-## Documents Ownership
+## Document Ownership
 
-We retain full ownership and all rights to the Documents, including but not limited to style, design, and digital assets such as images, videos, audio, icons, and content (e.g., text, datasets, logs, analytics, and databases, etc.).
+We retain ownership and rights to the content (templates, file structure, digital assets) included within this repository.
 
-## Third Party Vendors Accessing our Documents
+## Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
 
-1. You may not copy, update, modify, or sell the Documents, in whole or in part, without our explicit written permission.
-1. We reserve the right to terminate access to the Documents if any of the above terms are violated.
-1. Upon termination, you must immediately cease using the Documents and destroy any copies in your possession. The Company reserves the right to pursue legal action if necessary.
-1. The Company shall not be held liable for any direct or indirect damages arising from the use of or work involving the Documents.
+This repository is also available under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**. This means you are free to:
 
-## Contact
+1. **Share**: Copy and redistribute the material in any medium or format.
+2. **Adapt**: Edit, and build upon the material.
 
-For any questions or comments, please contact us at **[license@digixess.com](mailto:license@digixess.com?subject=Questions%20on%20Licenses%20)**. 
+Under the following terms:
+
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial**: You may not use the material for commercial purposes.
+- **ShareAlike**: If you update, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+For more details, see the full license at [**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License").
 
 ## Governing Law
 
