@@ -2,43 +2,13 @@
 
 This Git repository provides a structured template for organizing and managing document projects within DigiXess. It helps track drafts, revisions, and final versions, ensuring smooth collaboration and version control. Use it to keep all your documents organized and accessible throughout the project lifecycle.
 
-**Table of Contents**
-
-- [Purpose](#purpose)
-- [How to Use?](#how-to-use)
-- [Issue tracker](#issue-tracker)
-- [FAQ's](#faqs)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Version History](#version-history)
-- [License Information](#license-information)
-- [Support](#support)
-- [Acknowledgments](#acknowledgments)
-
-##  Purpose
-
-<!-- Add purpose/scope/features of document here -->
-
 ## How to Use?
 
-- Accessing Documents
-- Setup Instructions
-- Dependencies
-- Usage Restrictions
-<!-- Alternatively, you can include the details in a /docs/SETUP.md file and provide a link here. -->
+Follow the guidelines in the [Document Guidelines](/docs/document-guidelines.md "Document Guidelines") to create and manage documents.
 
 ## Issue tracker
 
-- Issue 1
-- Issue 2
-- Issue 3
-<!-- Alternatively, you can include the details in a /docs/ISSUES.md file and provide a link here. -->
-
-## FAQ's
-
-- Question 1
-- Question 2
-- Question 3
-<!-- Alternatively, you can include the details in a /docs/FAQs.md file and provide a link here. -->
+See [Issue Tracker](https://github.com/DigiXess/documents-template/issues "GitHub Issues") for a list of issues and feature requests.
 
 ## Contribution Guidelines
 
@@ -56,7 +26,3 @@ All documents and templates in this repository are subject to the terms outlined
 
 For support or inquiries, please contact **[support@digixess.com](mailto:support@digixess.com)**.
 
-## Acknowledgments
-
-- [Contributor Name](link) (if applicable)
-- Special thanks to [Contributor Name] for their contributions.

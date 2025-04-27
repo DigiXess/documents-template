@@ -9,6 +9,7 @@ This document provides best practices and guidelines for organizing, naming, and
    - Example:
      - `hr/`
      - `finance/`
+
 1. Use folders for document file types:
     For example: 
    - `PDFs`
@@ -48,11 +49,24 @@ This document provides best practices and guidelines for organizing, naming, and
 1. **Quality Standards**:
    All company docs shall have the following quality standards:
    - Clear and Concise  (simple language, no jargon unless necessary).
-   - Accurate (verified by SMEs or stakeholders)
-   - Ensure technical relevance by providing clear explanations or definitions for technical terms, acronyms, and jargons
-   - Professional (no typos, clear formatting)
-   - Actionable (especially for SOPs and training materials)
-   - Proper versioning and date updates
+   - Accurate (verified by SMEs or stakeholders).
+   - Ensure technical relevance by providing clear explanations or definitions for technical terms, acronyms, and jargon.
+   - Professional (no typos, clear formatting).
+   - Actionable (especially for SOPs and training materials).
+   - Proper versioning and date updates.
+
+1. **Review and Approval Process**:
+   - Assign a reviewer or subject matter expert (SME) to validate the content.
+   - Ensure compliance with company policies and standards.
+   - Obtain approval from relevant stakeholders before finalizing the document.
+   - Maintain a record of approvals, including names, dates, and comments.
+
+1. **Document Security Guidelines**:
+   - Restrict access to sensitive documents based on user roles and permissions.
+   - Use password protection for confidential files.
+   - Encrypt documents containing sensitive or classified information.
+   - Regularly review and update access permissions to ensure compliance.
+   - Avoid sharing sensitive documents via unsecured channels.
 
 ## Guidelines by File Types and Categories
  <!-- Add the link for it -->
@@ -61,7 +75,8 @@ This document provides best practices and guidelines for organizing, naming, and
 - Presentation Document: [Link to Template 2](link-to-template-2)
 - PDF Documents: [Link to Template 3](link-to-template-3)
 - Excel Spreadsheets: [Link to Template 4](link-to-template-4)
-- Additional Resources: [Link to Additional Resources](link-to-additional-resources)
+- Additional Resources: [Link to Additional Resources]
+- Markdown Documents: [Link to Template 5](link-to-additional-resources)
 <!-- Add more templates as needed -->
 
 
