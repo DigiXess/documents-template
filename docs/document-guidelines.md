@@ -23,7 +23,6 @@ This document provides best practices and guidelines for organizing, naming, and
 1. Avoid appending version numbers to filenames. Instead, use a version control system to track changes.
 
 1. **Document Structure**: Use a consistent structure for all documents, including sections like Introduction, Purpose, Scope, actual content, and Conclusion.
-
    **Example Structure**:
    - **Page Header and Footer**:
      - **Company Logo**: Place the company logo at the top of each page.
