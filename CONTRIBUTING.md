@@ -14,7 +14,7 @@ Thank you for considering contributing to this project! Please follow the guidel
 
 ## How to Contribute
 
-Follow the [Contributing Guidelines to Repository](https://github.com/DigiXess/repo-guidelines/blob/main/document/contributing-to-repository.md "Contributing Guidelines to Repository") for detailed instructions on how to contribute to the repository.
+Follow the [Contributing Guidelines to Repository](/docs/GUIDELINES.md "Contributing Guidelines to Repository") for detailed instructions on how to contribute to the repository.
 
 ## Report an Issue or Request a Feature
 

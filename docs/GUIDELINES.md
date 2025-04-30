@@ -26,9 +26,9 @@ Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/b
 ## Keep Files Updated
 
 Always keep the following files up to date:
-- [CHANGELOG.md](/CHANGELOG.md).
-- [README.md](/README.md).
-- [LICENSE](/LICENSE).
+- [CHANGELOG](/CHANGELOG.md)
+- [README](/README.md)
+- [LICENSE](/LICENSE)
 
 ## Updating CHANGELOG
 
