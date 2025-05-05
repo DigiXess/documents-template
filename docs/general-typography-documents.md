@@ -18,7 +18,7 @@ Use the following font styles in all print documents:
 - **Text Style**: `Title Case`
 - **Word Character Spacing**:
   - Condensed by `1 pt` in Microsoft
-  - `0` in Canva
+  - `-5pt` in Canva
 
 ### Subtitle
 
