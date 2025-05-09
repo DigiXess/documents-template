@@ -29,13 +29,18 @@ Use the following font styles in all print documents:
 - **Word Character Spacing**:
   - Expanded by `2 pt` in Microsoft
   - `200` in Canva
-
+- **Spacing**: 
+  - `12`pt before paragraphs
+  - `12`pt after paragraphs
 ### Heading 1 (Main Heading)
 - **Font Style**: `Lato Bold`
 - **Size**: `20pt`
 - **Line Height**: `1 to 1.1`
 - **Text Style**: `Title Case`
 - **Word Character Spacing**: `Normal`
+- **Spacing**: 
+  - `12`pt before paragraphs
+  - `16`pt after paragraphs
 
 ### Heading 2 (Subheading)
 - **Font Style**: `Lato Bold`
@@ -43,6 +48,9 @@ Use the following font styles in all print documents:
 - **Line Height**: `1 to 1.1`
 - **Text Style**: `Title Case`
 - **Word Character Spacing**: `Normal`
+- **Spacing**: 
+  - `20`pt before paragraphs
+  - `10`pt after paragraphs
 
 ### Heading 3
 - **Font Style**: `Lato Bold`
@@ -52,6 +60,9 @@ Use the following font styles in all print documents:
 - **Word Character Spacing**:
   - Expanded by `0.25 pt` in Microsoft
   - `25` in Canva
+- **Spacing**: 
+  - `20`pt before paragraphs
+  - `16`pt after paragraphs
 
 ### Heading 4
 - **Font Style**: `Lato Bold`
@@ -61,6 +72,9 @@ Use the following font styles in all print documents:
 - **Word Character Spacing**:
   - Expanded by `0.5 pt` in Microsoft
   - `50` in Canva
+- **Spacing**: 
+  - `20`pt before paragraphs
+  - `16`pt after paragraphs
 
 ### Heading 5
 - **Font Style**: `Lato Bold`
@@ -70,6 +84,9 @@ Use the following font styles in all print documents:
 - **Word Character Spacing**:
   - Expanded by `0.5 pt` in Microsoft
   - `50` in Canva
+- **Spacing**: 
+  - `20`pt before paragraphs
+  - `10`pt after paragraphs
 
 ### Heading 6
 - **Font Style**: `Lato Bold`
@@ -80,6 +97,9 @@ Use the following font styles in all print documents:
   - Expanded by `0.5 pt` in Microsoft
   - `50` in Canva
 - Skip it if it’s not needed.
+- **Spacing**: 
+  - `20`pt before paragraphs
+  - `10`pt after paragraphs
 
 ### Body Text
 - **Font Style**: `Lato Regular`
@@ -87,6 +107,9 @@ Use the following font styles in all print documents:
 - **Line Height**: `1.4 to 1.5`
 - **Text Style**: `Sentence Case`
 - **Word Character Spacing**: `Normal`
+- **Spacing**: 
+  - `12`pt before paragraphs
+  - `8`pt after paragraphs
 
 ### Footnotes
 - **Font Style**: `Lato Regular`
@@ -98,6 +121,9 @@ Use the following font styles in all print documents:
 ### Table Text
 - **Main TOC Text**: `16pt`
 - **Line Height**: `1 to 1.2`
+- Cell Text *Spacing* before and after should be `0`pt unless you are adding a paragraph.
+
+
 
 ## Guidelines for Digital Documents
 

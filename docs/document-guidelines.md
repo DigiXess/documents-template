@@ -9,7 +9,6 @@ This document provides best practices and guidelines for organizing, naming, and
    - Example:
      - `hr/`
      - `finance/`
-
 1. Use folders for document file types:
     For example: 
    - `PDFs`
@@ -19,9 +18,7 @@ This document provides best practices and guidelines for organizing, naming, and
 1. Follow consistent naming conventions:
    - Use Title Case letters and hyphens (`-`) or space (` `) to separate words (e.g., `Project-Plan.docx` , `Risk Assessment.docx`).
    - Include a descriptive name and date (e.g., `Project-Plan-for-DigiXess.docx`).
-
 1. Avoid appending version numbers to filenames. Instead, use a version control system to track changes.
-
 1. **Document Structure**: Use a consistent structure for all documents, including sections like Introduction, Purpose, Scope, actual content, and Conclusion.
    **Example Structure**:
    - **Page Header and Footer**:
@@ -42,9 +39,7 @@ This document provides best practices and guidelines for organizing, naming, and
    - **Conclusion**: Summarize key points and outline next steps.
    - **Appendix**: Add supplementary information, references, or resources.
    - **Version History**: Maintain a record of changes and updates to the document.
-
 1. **Formatting**: Use headings, bullet points, and tables to improve readability. Maintain consistent font styles and sizes throughout the document.
-
 1. **Quality Standards**:
    All company docs shall have the following quality standards:
    - Clear and Concise  (simple language, no jargon unless necessary).
@@ -53,22 +48,20 @@ This document provides best practices and guidelines for organizing, naming, and
    - Professional (no typos, clear formatting).
    - Actionable (especially for SOPs and training materials).
    - Proper versioning and date updates.
-
 1. **Review and Approval Process**:
    - Assign a reviewer or subject matter expert (SME) to validate the content.
    - Ensure compliance with company policies and standards.
    - Obtain approval from relevant stakeholders before finalizing the document.
    - Maintain a record of approvals, including names, dates, and comments.
-
 1. **Document Security Guidelines**:
    - Restrict access to sensitive documents based on user roles and permissions.
    - Use password protection for confidential files.
    - Encrypt documents containing sensitive or classified information.
    - Regularly review and update access permissions to ensure compliance.
    - Avoid sharing sensitive documents via unsecured channels.
+1. Delete unused or outdated documents to prevent confusion and maintain a clean directory structure.
 
 ## Guidelines by File Types and Categories
- <!-- Add the link for it -->
 
 - Follow [General Typography Guidelines](/docs/general-typography-documents.md "General Typography Guidelines") for all documents.
 - Follow [Microsoft templates and Settings](/microsoft/README.md "Microsoft Templates") for creating Microsoft documents.
