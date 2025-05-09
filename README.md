@@ -4,7 +4,9 @@ This Git repository provides a structured template for organizing and managing d
 
 ## How to Use?
 
-Follow the guidelines in the [Document Guidelines](/docs/document-guidelines.md "Document Guidelines") to create and manage documents.
+- Follow the guidelines in the [Document Guidelines](/docs/document-guidelines.md "Document Guidelines") to create and manage documents.
+- Remove the additional files and folders in `/docs/` that are not needed for your project.
+
 
 ## Issue tracker
 
