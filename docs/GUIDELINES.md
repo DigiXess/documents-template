@@ -18,7 +18,7 @@ Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/b
 
 ## Document Guidelines
 
-Follow the [Document Guidelines](/DOCS/document-guidelines.md "Document Guidelines") for best practices in organizing, naming, and managing project-related documents.
+Follow the [Document Guidelines](/docs/document-guidelines.md "Document Guidelines") for best practices in organizing, naming, and managing documents.
 
 ## Document Review Guidelines
 
