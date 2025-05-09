@@ -5,6 +5,7 @@ This document outlines the guidelines and best practices to ensure consistency, 
 **Table of Contents**
 
 - [Repository Guidelines](#repository-guidelines)
+- [Document Guidelines](#document-guidelines)
 - [Document Review Guidelines](#document-review-guidelines)
 - [Integration Guidelines](#integration-guidelines)
 - [Keep Files Updated](#keep-files-updated)
@@ -13,7 +14,12 @@ This document outlines the guidelines and best practices to ensure consistency, 
 
 ## Repository Guidelines
 
-Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/blob/4fb6dbd51f42b6930bebed033736b934633320fd/document-repo-guidelines.md "Code Repository Guidelines") for detailed instructions on managing the repository.
+Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/blob/4fb6dbd51f42b6930bebed033736b934633320fd/document-repo-guidelines.md "Document Repository Guidelines") for detailed instructions on managing the repository.
+
+## Document Guidelines
+
+- Follow the [Document Guidelines](/DOCS/document-guidelines.md "Document Guidelines") for best practices in organizing, naming, and managing project-related documents.
+- 
 <!-- Add any additional repository-specific guidelines here if applicable. -->
 ## Document Review Guidelines
 
