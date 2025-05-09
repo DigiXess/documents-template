@@ -70,12 +70,14 @@ This document provides best practices and guidelines for organizing, naming, and
 ## Guidelines by File Types and Categories
  <!-- Add the link for it -->
 
-- Word Documents: [Link to Template 1](link-to-template-1)
-- Presentation Document: [Link to Template 2](link-to-template-2)
+- Follow [General Typography Guidelines](/docs/general-typography-documents.md "General Typography Guidelines") for all documents.
+- Follow [Microsoft templates and Settings](/microsoft/README.md "Microsoft Templates") for creating Microsoft documents.
+
+<!-- - Presentation Document: [Link to Template 2](link-to-template-2)
 - PDF Documents: [Link to Template 3](link-to-template-3)
 - Excel Spreadsheets: [Link to Template 4](link-to-template-4)
 - Additional Resources: [Link to Additional Resources]
-- Markdown Documents: [Link to Template 5](link-to-additional-resources)
+- Markdown Documents: [Link to Template 5](link-to-additional-resources) -->
 <!-- Add more templates as needed -->
 
 
