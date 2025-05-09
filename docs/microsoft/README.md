@@ -13,6 +13,6 @@ Follow the instructions to add the DigiXess document settings:
 
 ## Others
 
-- [Page Covers](/docs/microsoft/PageCovers/) - Page covers for Microsoft documents.
-- [icons](/docs/microsoft/icons/) - Icons for Microsoft documents.
+- [Page Covers](/docs/media/PageCovers/) - Page covers for Microsoft documents.
+- [icons](/docs/media/icons/) - Icons for Microsoft documents.
 - [Fonts](/docs/fonts/) - Fonts for Microsoft documents.

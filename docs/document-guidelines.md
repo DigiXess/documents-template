@@ -64,7 +64,7 @@ This document provides best practices and guidelines for organizing, naming, and
 ## Guidelines by File Types and Categories
 
 - Follow [General Typography Guidelines](/docs/general-typography-documents.md "General Typography Guidelines") for all documents.
-- Follow [Microsoft templates and Settings](/microsoft/README.md "Microsoft Templates") for creating Microsoft documents.
+- Follow [Microsoft templates and Settings](/docs/microsoft/README.md "Microsoft Templates") for creating Microsoft documents.
 
 <!-- - Presentation Document: [Link to Template 2](link-to-template-2)
 - PDF Documents: [Link to Template 3](link-to-template-3)
